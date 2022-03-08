@@ -28,4 +28,4 @@ function test(func, esp){
 }
 test(donuts(4), 'Number of donuts: 4');
 test(donuts(11), 'Number of donuts: many');
-test(donuts(5), 'Number of donuts: many')
+test(donuts(5), 'Number of donuts: many');
