@@ -11,4 +11,19 @@ class Automovel{
     }
 }
 
-export default Automovel;
+
+class Paraquedas{
+    _alcance;
+
+    constructor(alcance){
+        this._alcance = alcance;
+    }
+
+    showAlcance(){
+        return this._alcance;
+    }
+}
+
+
+
+export {Automovel, Paraquedas};

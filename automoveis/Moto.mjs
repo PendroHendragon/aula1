@@ -1,4 +1,4 @@
-import Automovel from "./Automovel.mjs";
+import {Automovel, Paraquedas} from "./Automovel.mjs";
 
 class Moto extends Automovel{
 
