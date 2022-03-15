@@ -1,4 +1,4 @@
-import Automovel from "./Automovel.mjs";
+import {Automovel} from "./Automovel.mjs";
 
 class Carro extends Automovel{
 
