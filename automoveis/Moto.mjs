@@ -9,3 +9,4 @@ class Moto extends Automovel{
 
 let moto = new Moto(100,120);
 console.log(moto.showCilindrada());
+
